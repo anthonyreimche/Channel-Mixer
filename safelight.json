@@ -1,0 +1,13 @@
+{
+  "id": "channel-mixer",
+  "name": "Channel Mixer",
+  "version": "1.0.0",
+  "description": "A channel mixer in the mixing space of your choice: nine coefficients or simpler controls for the same matrix (hue rotation and stretch, primaries, or white-preserving primaries), with colourfulness, brightness, B&W film presets and gamut compression.",
+  "author": "Anthony Reimche",
+  "main": "dist/index.js",
+  "license": "GPL-3.0-or-later",
+  "categories": ["Develop", "Color"],
+  "keywords": ["channel mixer", "rgb mixer", "colour calibration", "primaries", "black and white", "b&w", "monochrome", "ansel"],
+  "repository": "anthonyreimche/Channel-Mixer",
+  "minAppVersion": "3.2.0"
+}
