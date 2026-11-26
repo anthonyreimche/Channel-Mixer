@@ -1,7 +1,7 @@
 {
   "id": "channel-mixer",
   "name": "Channel Mixer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A channel mixer in the mixing space of your choice: nine coefficients or simpler controls for the same matrix (hue rotation and stretch, primaries, or white-preserving primaries), with colourfulness, brightness, B&W film presets and gamut compression.",
   "author": "Anthony Reimche",
   "main": "dist/index.js",

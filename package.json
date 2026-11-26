@@ -1,7 +1,7 @@
 {
   "name": "safelight-channel-mixer",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Channel Mixer extension for Safelight: the channel mixer of Ansel's colour calibration, with its four editing modes.",
   "type": "module",
   "scripts": {

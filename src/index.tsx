@@ -36,6 +36,7 @@ export function activate(host: SafelightAPI): void {
     title: "Channel Mixer",
     component: ChannelMixerPanel,
     defaultDock: { module: "develop", direction: "right", width: 280 },
+    modules: ["develop"],
     onReset: reset,
     mask: { component: ChannelMixerPanel, owns: PARAM_KEYS.map(qualified) },
   });

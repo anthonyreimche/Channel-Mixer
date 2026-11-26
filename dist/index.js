@@ -1386,6 +1386,7 @@ function Et(e) {
 			direction: "right",
 			width: 280
 		},
+		modules: ["develop"],
 		onReset: Tt,
 		mask: {
 			component: _t,
